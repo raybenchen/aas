@@ -1,4 +1,4 @@
-Advanced Analytics with Spark Source Code
+Advanced Analytics with Spark Source Code 
 =========================================
 
 Code to accompany [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do), 
