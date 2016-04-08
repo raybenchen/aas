@@ -7,7 +7,7 @@ by [Sandy Ryza](https://github.com/sryza), [Uri Laserson](https://github.com/las
 
 [![Advanced Analytics with Spark](http://akamaicovers.oreilly.com/images/0636920035091/lrg.jpg)](http://shop.oreilly.com/product/0636920035091.do)
 
-### Build
+### Build. 
 
 [Apache Maven](http://maven.apache.org/) 3.0.5+ and Java 7+ are required to build. From the root level of the project, run `mvn package` to compile artifacts into `target/` subdirectories beneath each chapter's directory.
 
